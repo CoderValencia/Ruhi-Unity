@@ -1,0 +1,1532 @@
+fileFormatVersion: 2
+guid: 99b16eda294dae3429d6745e1b83d154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -923446805781453717
+    second: Placeholder Character Battle Sprite_0
+  - first:
+      213: -2838915228446624356
+    second: Placeholder Character Battle Sprite_1
+  - first:
+      213: 6161750051451612921
+    second: Placeholder Character Battle Sprite_2
+  - first:
+      213: 7100216456405551021
+    second: Placeholder Character Battle Sprite_3
+  - first:
+      213: -4557731119247894463
+    second: Placeholder Character Battle Sprite_4
+  - first:
+      213: 4289394057125088537
+    second: Placeholder Character Battle Sprite_5
+  - first:
+      213: -4320138476174748891
+    second: Placeholder Character Battle Sprite_6
+  - first:
+      213: -7351640887029749525
+    second: Placeholder Character Battle Sprite_7
+  - first:
+      213: 6949062698822359029
+    second: Placeholder Character Battle Sprite_8
+  - first:
+      213: -1560010986068527969
+    second: Placeholder Character Battle Sprite_9
+  - first:
+      213: 3884622404846012411
+    second: Placeholder Character Battle Sprite_10
+  - first:
+      213: -7439858112767263446
+    second: Placeholder Character Battle Sprite_11
+  - first:
+      213: 3951434622961288312
+    second: Placeholder Character Battle Sprite_12
+  - first:
+      213: -2897385616044235374
+    second: Placeholder Character Battle Sprite_13
+  - first:
+      213: 775162309018128673
+    second: Placeholder Character Battle Sprite_14
+  - first:
+      213: 8238334350893700098
+    second: Placeholder Character Battle Sprite_15
+  - first:
+      213: 796882015937385493
+    second: Placeholder Character Battle Sprite_16
+  - first:
+      213: -2032108562391010448
+    second: Placeholder Character Battle Sprite_17
+  - first:
+      213: 631142019650207327
+    second: Placeholder Character Battle Sprite_18
+  - first:
+      213: -5093980170718729054
+    second: Placeholder Character Battle Sprite_19
+  - first:
+      213: 6556462391696037079
+    second: Placeholder Character Battle Sprite_20
+  - first:
+      213: 2709859775947266699
+    second: Placeholder Character Battle Sprite_21
+  - first:
+      213: -1581665418611903250
+    second: Placeholder Character Battle Sprite_22
+  - first:
+      213: 1523468133438449080
+    second: Placeholder Character Battle Sprite_23
+  - first:
+      213: 5652757227491072657
+    second: Placeholder Character Battle Sprite_24
+  - first:
+      213: -5214194991374140716
+    second: Placeholder Character Battle Sprite_25
+  - first:
+      213: 4524600944099841617
+    second: Placeholder Character Battle Sprite_26
+  - first:
+      213: -5676572894136992319
+    second: Placeholder Character Battle Sprite_27
+  - first:
+      213: 775047846710309246
+    second: Placeholder Character Battle Sprite_28
+  - first:
+      213: -2223811338985204621
+    second: Placeholder Character Battle Sprite_29
+  - first:
+      213: 274727883469036834
+    second: Placeholder Character Battle Sprite_30
+  - first:
+      213: -6203341965513906178
+    second: Placeholder Character Battle Sprite_31
+  - first:
+      213: 2454722505575649412
+    second: Placeholder Character Battle Sprite_32
+  - first:
+      213: 3791937021331701143
+    second: Placeholder Character Battle Sprite_33
+  - first:
+      213: -2553494045799394055
+    second: Placeholder Character Battle Sprite_34
+  - first:
+      213: -3715690141683107709
+    second: Placeholder Character Battle Sprite_35
+  - first:
+      213: -4492954908303024286
+    second: Placeholder Character Battle Sprite_36
+  - first:
+      213: 1512524940518892802
+    second: Placeholder Character Battle Sprite_37
+  - first:
+      213: 5509548305574502375
+    second: Placeholder Character Battle Sprite_38
+  - first:
+      213: -538456422092660884
+    second: Placeholder Character Battle Sprite_39
+  - first:
+      213: -8259950823931765967
+    second: Placeholder Character Battle Sprite_40
+  - first:
+      213: 8667421676013524585
+    second: Placeholder Character Battle Sprite_41
+  - first:
+      213: 2011297060051663325
+    second: Placeholder Character Battle Sprite_42
+  - first:
+      213: 7886392415317757453
+    second: Placeholder Character Battle Sprite_43
+  - first:
+      213: -8933867643142790152
+    second: Placeholder Character Battle Sprite_44
+  - first:
+      213: -162751375419467865
+    second: Placeholder Character Battle Sprite_45
+  - first:
+      213: 554330597132404121
+    second: Placeholder Character Battle Sprite_46
+  - first:
+      213: -808068050779915804
+    second: Placeholder Character Battle Sprite_47
+  - first:
+      213: 1179705492103023730
+    second: Placeholder Character Battle Sprite_48
+  - first:
+      213: 2669429417696921631
+    second: Placeholder Character Battle Sprite_49
+  - first:
+      213: -2314573723525141176
+    second: Placeholder Character Battle Sprite_50
+  - first:
+      213: -5581097219568202843
+    second: Placeholder Character Battle Sprite_51
+  - first:
+      213: -4472216838355671288
+    second: Placeholder Character Battle Sprite_52
+  - first:
+      213: 4546097882169648661
+    second: Placeholder Character Battle Sprite_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646d64d5024f23f0800000000000000
+      internalID: -923446805781453717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95fdf414a52a98d0800000000000000
+      internalID: -2838915228446624356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea483860fe28550800000000000000
+      internalID: 6161750051451612921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 320
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da78f60af39098260800000000000000
+      internalID: 7100216456405551021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485c77e1bfafb0c0800000000000000
+      internalID: -4557731119247894463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dcc943b2df68b30800000000000000
+      internalID: 4289394057125088537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235b1be1f8cb04c0800000000000000
+      internalID: -4320138476174748891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8aa5c5099b9f990800000000000000
+      internalID: -7351640887029749525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 320
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75935f4b7007060800000000000000
+      internalID: 6949062698822359029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94bda1064ab95ae0800000000000000
+      internalID: -1560010986068527969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7ce5fde73f8e530800000000000000
+      internalID: 3884622404846012411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df239e67050c890800000000000000
+      internalID: -7439858112767263446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87489ce9ad056d630800000000000000
+      internalID: 3951434622961288312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2956b5a122b6ac7d0800000000000000
+      internalID: -2897385616044235374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211c48530ee1ca00800000000000000
+      internalID: 775162309018128673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204daed8171745270800000000000000
+      internalID: 8238334350893700098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 256
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51458dfa8f71f0b00800000000000000
+      internalID: 796882015937385493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 257
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07377a177008cc3e0800000000000000
+      internalID: -2032108562391010448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eb21ca25442c800800000000000000
+      internalID: 631142019650207327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac2d67160c8e49b0800000000000000
+      internalID: -5093980170718729054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41040cecb3dfa50800000000000000
+      internalID: 6556462391696037079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad478db1b5b9520800000000000000
+      internalID: 2709859775947266699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43e1a8eabcc0ae0800000000000000
+      internalID: -1581665418611903250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e9381232742510800000000000000
+      internalID: 1523468133438449080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9022bfb0a27e40800000000000000
+      internalID: 5652757227491072657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daf585084573a7b0800000000000000
+      internalID: -5214194991374140716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 192
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d777169c9ace30800000000000000
+      internalID: 4524600944099841617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 128
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7a5f4703c831b0800000000000000
+      internalID: -5676572894136992319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71791309e581ca00800000000000000
+      internalID: 775047846710309246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 128
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3741d449e5f6321e0800000000000000
+      internalID: -2223811338985204621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 128
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1110fd8700d300800000000000000
+      internalID: 274727883469036834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7254d595d49e9a0800000000000000
+      internalID: -6203341965513906178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 128
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4805ef6fc1de01220800000000000000
+      internalID: 2454722505575649412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79df02f51aaaf9430800000000000000
+      internalID: 3791937021331701143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 128
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f45d00c1ba209cd0800000000000000
+      internalID: -2553494045799394055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 128
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388be81b0873f6cc0800000000000000
+      internalID: -3715690141683107709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f10cac051d5a1c0800000000000000
+      internalID: -4492954908303024286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052c817b619df410800000000000000
+      internalID: 1512524940518892802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9f9a3ef8d57c40800000000000000
+      internalID: 5509548305574502375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f932aacb40788f0800000000000000
+      internalID: -538456422092660884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b1a5d1d72ce5d80800000000000000
+      internalID: -8259950823931765967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9669e45a71ed84870800000000000000
+      internalID: 8667421676013524585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9ba22150099eb10800000000000000
+      internalID: 2011297060051663325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e895a2e18127d60800000000000000
+      internalID: 7886392415317757453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32e1456b6840480800000000000000
+      internalID: -8933867643142790152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79a618c7acdbdf0800000000000000
+      internalID: -162751375419467865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995053abdb061b700800000000000000
+      internalID: 554330597132404121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9bbee936a29c4f0800000000000000
+      internalID: -808068050779915804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cc06c05e72f5010800000000000000
+      internalID: 1179705492103023730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188dc289e7bb0520800000000000000
+      internalID: 2669429417696921631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da4da267bf0efd0800000000000000
+      internalID: -2314573723525141176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab87b216a5fb82b0800000000000000
+      internalID: -5581097219568202843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072a47fa7e7fe1c0800000000000000
+      internalID: -4472216838355671288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder Character Battle Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516a0e400fbf61f30800000000000000
+      internalID: 4546097882169648661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Placeholder Character Battle Sprite_46: 554330597132404121
+      Placeholder Character Battle Sprite_11: -7439858112767263446
+      Placeholder Character Battle Sprite_12: 3951434622961288312
+      Placeholder Character Battle Sprite_36: -4492954908303024286
+      Placeholder Character Battle Sprite_14: 775162309018128673
+      Placeholder Character Battle Sprite_42: 2011297060051663325
+      Placeholder Character Battle Sprite_51: -5581097219568202843
+      Placeholder Character Battle Sprite_50: -2314573723525141176
+      Placeholder Character Battle Sprite_3: 7100216456405551021
+      Placeholder Character Battle Sprite_37: 1512524940518892802
+      Placeholder Character Battle Sprite_45: -162751375419467865
+      Placeholder Character Battle Sprite_15: 8238334350893700098
+      Placeholder Character Battle Sprite_19: -5093980170718729054
+      Placeholder Character Battle Sprite_2: 6161750051451612921
+      Placeholder Character Battle Sprite_33: 3791937021331701143
+      Placeholder Character Battle Sprite_18: 631142019650207327
+      Placeholder Character Battle Sprite_31: -6203341965513906178
+      Placeholder Character Battle Sprite_13: -2897385616044235374
+      Placeholder Character Battle Sprite_43: 7886392415317757453
+      Placeholder Character Battle Sprite_38: 5509548305574502375
+      Placeholder Character Battle Sprite_9: -1560010986068527969
+      Placeholder Character Battle Sprite_30: 274727883469036834
+      Placeholder Character Battle Sprite_48: 1179705492103023730
+      Placeholder Character Battle Sprite_0: -923446805781453717
+      Placeholder Character Battle Sprite_28: 775047846710309246
+      Placeholder Character Battle Sprite_7: -7351640887029749525
+      Placeholder Character Battle Sprite_5: 4289394057125088537
+      Placeholder Character Battle Sprite_8: 6949062698822359029
+      Placeholder Character Battle Sprite_6: -4320138476174748891
+      Placeholder Character Battle Sprite_27: -5676572894136992319
+      Placeholder Character Battle Sprite_40: -8259950823931765967
+      Placeholder Character Battle Sprite_34: -2553494045799394055
+      Placeholder Character Battle Sprite_41: 8667421676013524585
+      Placeholder Character Battle Sprite_35: -3715690141683107709
+      Placeholder Character Battle Sprite_29: -2223811338985204621
+      Placeholder Character Battle Sprite_17: -2032108562391010448
+      Placeholder Character Battle Sprite_39: -538456422092660884
+      Placeholder Character Battle Sprite_32: 2454722505575649412
+      Placeholder Character Battle Sprite_23: 1523468133438449080
+      Placeholder Character Battle Sprite_49: 2669429417696921631
+      Placeholder Character Battle Sprite_1: -2838915228446624356
+      Placeholder Character Battle Sprite_4: -4557731119247894463
+      Placeholder Character Battle Sprite_21: 2709859775947266699
+      Placeholder Character Battle Sprite_47: -808068050779915804
+      Placeholder Character Battle Sprite_53: 4546097882169648661
+      Placeholder Character Battle Sprite_10: 3884622404846012411
+      Placeholder Character Battle Sprite_22: -1581665418611903250
+      Placeholder Character Battle Sprite_26: 4524600944099841617
+      Placeholder Character Battle Sprite_20: 6556462391696037079
+      Placeholder Character Battle Sprite_25: -5214194991374140716
+      Placeholder Character Battle Sprite_24: 5652757227491072657
+      Placeholder Character Battle Sprite_52: -4472216838355671288
+      Placeholder Character Battle Sprite_44: -8933867643142790152
+      Placeholder Character Battle Sprite_16: 796882015937385493
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

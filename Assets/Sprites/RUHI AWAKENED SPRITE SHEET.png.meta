@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 515aa6c743ddbab4e9fd67c3da9c8c8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8672614273955564500
+    second: RUHI AWAKENED SPRITE SHEET_0
+  - first:
+      213: -1939396191239004306
+    second: RUHI AWAKENED SPRITE SHEET_1
+  - first:
+      213: 4996076630924141582
+    second: RUHI AWAKENED SPRITE SHEET_2
+  - first:
+      213: -1633214093399416556
+    second: RUHI AWAKENED SPRITE SHEET_3
+  - first:
+      213: 8073656220198509970
+    second: RUHI AWAKENED SPRITE SHEET_4
+  - first:
+      213: -5817990637615161310
+    second: RUHI AWAKENED SPRITE SHEET_5
+  - first:
+      213: 6254080948398015609
+    second: RUHI AWAKENED SPRITE SHEET_6
+  - first:
+      213: 1095640934181469652
+    second: RUHI AWAKENED SPRITE SHEET_7
+  - first:
+      213: -1575061707755790705
+    second: RUHI AWAKENED SPRITE SHEET_8
+  - first:
+      213: -1234944146142468208
+    second: RUHI AWAKENED SPRITE SHEET_9
+  - first:
+      213: -7217241226741480381
+    second: RUHI AWAKENED SPRITE SHEET_10
+  - first:
+      213: -7288495865119421354
+    second: RUHI AWAKENED SPRITE SHEET_11
+  - first:
+      213: 3589195099804525928
+    second: RUHI AWAKENED SPRITE SHEET_12
+  - first:
+      213: -8382162121201052594
+    second: RUHI AWAKENED SPRITE SHEET_13
+  - first:
+      213: 7698252785413867969
+    second: RUHI AWAKENED SPRITE SHEET_14
+  - first:
+      213: -1703121446252925492
+    second: RUHI AWAKENED SPRITE SHEET_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 320
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db8a119bb05b5870800000000000000
+      internalID: 8672614273955564500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 320
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f147e7071e515e0800000000000000
+      internalID: -1939396191239004306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 320
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042dd8b931a55540800000000000000
+      internalID: 4996076630924141582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41124c86f68a559e0800000000000000
+      internalID: -1633214093399416556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d1e836e836b0070800000000000000
+      internalID: 8073656220198509970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22066621758524fa0800000000000000
+      internalID: -5817990637615161310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9744dcdac75fac650800000000000000
+      internalID: 6254080948398015609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd734bef9f743f00800000000000000
+      internalID: 1095640934181469652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 255
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e55e9c8b1442ae0800000000000000
+      internalID: -1575061707755790705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097eab397d89cdee0800000000000000
+      internalID: -1234944146142468208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34405c5c75537db90800000000000000
+      internalID: -7217241226741480381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c47a470af0ada90800000000000000
+      internalID: -7288495865119421354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 192
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865eb694de16fc130800000000000000
+      internalID: 3589195099804525928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44931c16f39cab80800000000000000
+      internalID: -8382162121201052594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 128
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c941c90f10b5da60800000000000000
+      internalID: 7698252785413867969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUHI AWAKENED SPRITE SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 128
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdaeb2711c4d58e0800000000000000
+      internalID: -1703121446252925492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RUHI AWAKENED SPRITE SHEET_7: 1095640934181469652
+      RUHI AWAKENED SPRITE SHEET_8: -1575061707755790705
+      RUHI AWAKENED SPRITE SHEET_6: 6254080948398015609
+      RUHI AWAKENED SPRITE SHEET_0: 8672614273955564500
+      RUHI AWAKENED SPRITE SHEET_1: -1939396191239004306
+      RUHI AWAKENED SPRITE SHEET_2: 4996076630924141582
+      RUHI AWAKENED SPRITE SHEET_15: -1703121446252925492
+      RUHI AWAKENED SPRITE SHEET_13: -8382162121201052594
+      RUHI AWAKENED SPRITE SHEET_11: -7288495865119421354
+      RUHI AWAKENED SPRITE SHEET_12: 3589195099804525928
+      RUHI AWAKENED SPRITE SHEET_4: 8073656220198509970
+      RUHI AWAKENED SPRITE SHEET_10: -7217241226741480381
+      RUHI AWAKENED SPRITE SHEET_14: 7698252785413867969
+      RUHI AWAKENED SPRITE SHEET_9: -1234944146142468208
+      RUHI AWAKENED SPRITE SHEET_3: -1633214093399416556
+      RUHI AWAKENED SPRITE SHEET_5: -5817990637615161310
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
